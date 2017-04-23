@@ -1,6 +1,6 @@
 # zpath
 create path from string
-[![NPM version]
+[![NPM version]]
 
 ## samples
 ```js
