@@ -1,6 +1,6 @@
 {
   "name": "zpath",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "create path from string",
   "main": "index.js",
   "scripts": {
