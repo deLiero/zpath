@@ -28,8 +28,6 @@ _Zpath.prototype.make = function (val) {
         return path.normalize(this.root);
     }
 
-    console.log(typeof val.trim);
-
     if (typeof val !== "string") {
         throw new Error("value must be string, number, undefined or null");
     }
