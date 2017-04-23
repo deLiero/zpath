@@ -15,7 +15,9 @@
     "create",
     "path",
     "from",
-    "string"
+    "string",
+    "for",
+    "gulp"
   ],
   "author": "deliero",
   "license": "MIT",
