@@ -1,0 +1,26 @@
+{
+  "name": "zpath",
+  "version": "0.0.1",
+  "description": "create path from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deLiero/zpath.git"
+  },
+  "keywords": [
+    "zpath",
+    "create",
+    "path",
+    "from",
+    "string"
+  ],
+  "author": "deliero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deLiero/zpath/issues"
+  },
+  "homepage": "https://github.com/deLiero/zpath#readme"
+}
